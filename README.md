@@ -1,4 +1,6 @@
 # Mini-Project-Web_Crawler-Email_Scraper-
+Extract all emails available on a website in a csv file, just by entering the sitemap url.
+
 
 Command to install packages from pypi.org
 
