@@ -10,7 +10,7 @@ pip(python index package)
 Command to install system packages
 sudo install 
 
-Pytesseract: OCR(optical corrective) module, used to extract text from the image
+Pytesseract: OCR(Optical Charcater Recognition) module, used to extract text from the image
 Gtts(Google text to steal) module: converts the text to speech
 
 Functions of Packages
